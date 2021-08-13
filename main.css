@@ -12,6 +12,7 @@
   
   body {
     background-color: #192841;
+    background-image: linear-gradient(to bottom right, #152238, #192841);
   }
   
   .content {
