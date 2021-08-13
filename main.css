@@ -5,6 +5,10 @@
   .black {
     color: #000000;
   }
+
+.small_caps {
+  font-variant: small-caps;
+}
   
   body {
     background-color: #192841;
